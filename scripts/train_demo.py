@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 """Run a chronological, rights-clean demo using only synthetic data."""
 
 from __future__ import annotations
